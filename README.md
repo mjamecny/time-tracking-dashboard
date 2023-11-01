@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/time-tracking-dashboard-built-with-react-w7adB7MLeC)
+- Live Site URL: [Netlify](https://fm-challenge-time-dashboard.netlify.app)
 
 ## My process
 
